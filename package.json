@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "practice",
   "version": "1.0.0",
   "description": "",
@@ -11,5 +12,9 @@
   "devDependencies": {
     "@playwright/test": "^1.58.2",
     "@types/node": "^25.2.3"
+=======
+  "dependencies": {
+    "@playwright/test": "^1.58.2"
+>>>>>>> 77bdd34926b8eef4ac90dc342ed9f7f5206b3ab6
   }
 }
